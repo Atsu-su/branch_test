@@ -1,4 +1,5 @@
-text2にはバグがあるので取り除きます。
+*bug*text2にはバグがあるので取り除きます。
 
-<h1>Welcome to Japan</h1>
-<p>It is a long journey to here. I am happy to see you all.</p>
+<h1>Welco*bug*me to Japan</h1>
+*bug*<p>I*b*bug*ug*t is a l*bug*ong journey to here. I am happy to see you all.</p>
+*bug* is back!
