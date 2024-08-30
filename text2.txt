@@ -1,4 +1,4 @@
 text2にはバグがあるので取り除きます。
 
-<h1>*bug*Welcome to Japan</h1>
-<p>It is a lo*bug*ng journey to here. I am hap*bug*py to see you all.*bug*</p>
+<h1>Welcome to Japan</h1>
+<p>It is a long journey to here. I am happy to see you all.</p>
