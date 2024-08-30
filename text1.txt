@@ -1,3 +1,4 @@
 [1] commit 1
 [2] second commit will be safe(no bugs).
     This commit will not be reverted.
+[3]Very amazing update!
